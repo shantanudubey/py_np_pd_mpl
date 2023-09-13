@@ -1,5 +1,5 @@
 # py_np_pd_mpl
-Exploring data science py libraries : 
+Exploring Data Science libraries in Python : 
 
     - Numpy
     - Pandas
