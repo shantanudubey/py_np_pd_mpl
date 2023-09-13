@@ -1,5 +1,6 @@
 # py_np_pd_mpl
 Exploring data science py libraries : 
+
     - Numpy
     - Pandas
     - Matplotlib
